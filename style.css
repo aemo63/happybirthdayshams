@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3e5f5; /* Light purple background */
+  color: #4a148c; /* Deep purple text */
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #6a1b9a; /* Bright purple for headings */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #7b1fa2; /* Medium purple button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #9c27b0; /* Lighter purple on hover */
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+
+#memories-text {
+  color: #311b92; /* Rich purple for the other text */
+}
